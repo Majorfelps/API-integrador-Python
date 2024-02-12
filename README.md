@@ -1,4 +1,7 @@
-API para integracao  de 2 sistema, onde
+API para integracao usando o framework django do Python.
+
+
+
 
 
 
